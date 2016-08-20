@@ -7,6 +7,7 @@ public class Banco {
     ArrayList<Cliente> clientes;
     ArrayList<Cliente> clientes65;
     ArrayList<Caixa> caixas;
+    //Teste
 
     public ArrayList<Cliente> getClientes() {
         for (Cliente c : clientes) {
